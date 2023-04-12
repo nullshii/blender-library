@@ -8,3 +8,5 @@ VERSION 1
 
 2c9675e8-004b-4d14-a50b-867a734a3f21:Model:Model
 a1312ba3-f9a5-446c-89dd-761e2a50ed89:Model/GeometryNodes:Model-GeometryNodes
+a6af0a7d-bdf6-49f7-a620-070654eca48e:Shader:Shader
+0cc9c2f1-0fb5-4e73-8356-7b85c5da44f6:Shader/Floor:Shader-Floor
